@@ -1,2 +1,1 @@
-## Welcome to my profile
-I'm an engineer and I code as a hobby. I develop utilities and bots.
+[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=ghostfaccee&theme=nord&headerStyle=mac&typingSpeed=100&hostname=github.com&commands=whoami%2Cbio%2Clanguages%2Cneofetch%2Cuptime%2Cexit&customCommands=%7B%22bio%22%3A%22Backend%20developer%20specializing%20in%20Python%20and%20FastAPI.%20Constantly%20exploring%20new%20languages%20and%20tools%20to%20become%20an%20engineer.%22%7D)](https://github.com/ghostfaccee)
